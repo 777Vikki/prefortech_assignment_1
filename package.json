@@ -1,0 +1,22 @@
+{
+  "name": "prefortech-project",
+  "version": "1.0.0",
+  "description": "A Node.js RESTful API Tutorial Project (Build a simple shop API)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "restfull",
+    "api"
+  ],
+  "author": "Vivek",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.2"
+  }
+}
